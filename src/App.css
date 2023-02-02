@@ -1,12 +1,12 @@
 body {
-  background-color: blanchedalmond;
+  background-color: powderblue;
   font-family: Arial, sans-serif;
 }
 
 header {
   padding: 20px;
   text-align: center;
-  background-color: white;
+  background-color: lavender;
   box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.2);
   margin: 20px auto;
   width: 60%;
@@ -37,7 +37,7 @@ header {
 }
 
 #add_button {
-  background-color: tan;
+  background-color: mediumseagreen;
   color: white;
   outline: none;
   border: none;
